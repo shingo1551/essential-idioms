@@ -60,4 +60,28 @@ export const lesson1: Lesson = [
       },
     ],
   },
+  {
+    idiom: {
+      en: 'take ~ off',
+      ja: '脱ぐ',
+    },
+    note: 'remove',
+    phrases: [],
+  },
+  {
+    idiom: {
+      en: 'call ~ (up)',
+      ja: '電話をかける',
+    },
+    note: 'telephone',
+    phrases: [],
+  },
+  {
+    idiom: {
+      en: 'turn ~ on',
+      ja: '(あかり,ラジオなど)をつける',
+    },
+    note: 'start, begin',
+    phrases: [],
+  },
 ];
