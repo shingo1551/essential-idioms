@@ -125,7 +125,16 @@ export const lesson1: Lesson = [
       ja: '(あかり,ラジオなど)を消す, (電源を)切る',
     },
     note: 'stop, terminate, extinguish',
-    phrases: [],
+    phrases: [
+      {
+        en: 'Please turn off the light when you leave the room.',
+        ja: '部屋を出る前にあかりを消してください。',
+      },
+      {
+        en: 'Shall I turn oven off?',
+        ja: 'オーブンを消しましょうか。',
+      },
+    ],
   },
   {
     idiom: {
@@ -133,7 +142,16 @@ export const lesson1: Lesson = [
       ja: 'ただちに',
     },
     note: 'immediately, very soon',
-    phrases: [],
+    phrases: [
+      {
+        en: "Dad says that dinner will be ready right away, so we'd better wash our hands.",
+        ja: 'すぐに夕食ができるとお父さんが言ってるから、手を洗ったほうがいいよ。',
+      },
+      {
+        en: 'Can William come to my office right away? I must see him urgently.',
+        ja: 'ウィリアムスに今すぐ私の事務所に来てもらえますか。大至急会わなければならないんです。',
+      },
+    ],
   },
   {
     idiom: {
@@ -141,7 +159,20 @@ export const lesson1: Lesson = [
       ja: '拾い[取り]上げる(特に指を使って)',
     },
     note: 'take',
-    phrases: [],
+    phrases: [
+      {
+        en: 'Harry piked up the newspaper which was on his desk.',
+        ja: 'ハリーは彼の机の上の新聞を取り上げた。',
+      },
+      {
+        en: "Why didn't you pick up that penceil which was on the floor?",
+        ja: 'どうして床に落ちていた鉛筆を拾わなかったの。',
+      },
+      {
+        en: 'I would have picked it ip if I had noticed it.',
+        ja: '気づいていたら拾いましたよ。',
+      },
+    ],
   },
   {
     idiom: {
@@ -149,7 +180,16 @@ export const lesson1: Lesson = [
       ja: 'ただちに, すぐに',
     },
     note: 'immediately, very soon, right away',
-    phrases: [],
+    phrases: [
+      {
+        en: 'He was in a hurry, so he asked me to come to his office at once.',
+        ja: '彼は急いでいて、私にすぐ彼の事務所に来てくれるようにと言った。',
+      },
+      {
+        en: "I want you to send this telegram at once; it's urgent.",
+        ja: 'この電報をすぐに打ってください。緊急の用です。',
+      },
+    ],
   },
   {
     idiom: {
@@ -157,7 +197,16 @@ export const lesson1: Lesson = [
       ja: '起きる, 立ち上がる, 起こす',
     },
     note: undefined,
-    phrases: [],
+    phrases: [
+      {
+        en: 'I get up at 7 oclock every morning.',
+        ja: '私は毎朝7時に起きます。',
+      },
+      {
+        en: 'The man was so weak that the nurse was unable to get him up from the chair.',
+        ja: '男はとても弱っていて看護婦は彼を椅子から立ち上がらせることができなかった。',
+      },
+    ],
   },
   {
     idiom: {
@@ -165,6 +214,15 @@ export const lesson1: Lesson = [
       ja: 'はじめは',
     },
     note: 'originally, in the first instance',
-    phrases: [],
+    phrases: [
+      {
+        en: 'At first he seemed to find English difficult, but later he made good progress.',
+        ja: '彼ははじめ英語を難しいものと思ったようだったが、その後とても上達した。',
+      },
+      {
+        en: 'At first I thought it was Sheila at the door, but then I saw that it was Betty.',
+        ja: '最初ドアのところにいるのはシェイラだと思ったが、すぐいたのはベティだとわかった。',
+      },
+    ],
   },
 ];
